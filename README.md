@@ -19,7 +19,7 @@ This website is about all the excellent readings I have learned throughout my 30
 * [Read: Class07](301/Read%3A%20Class%2007.md)
 * [Read; Class08](301/Read%3A%20Class%2008.md)
 * [Read; Class09](301/Read%3A%20Class%2009.md)
-
+* [Read; Class10](301/Read%3A%20Class%2010.md)
 
 ## Code 401 - Advanced Software Development
 
