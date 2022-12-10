@@ -1,6 +1,6 @@
 ### NoSQL vs SQL
 
-[NoSQL VS SQL](./read%2011.png)
+[NoSQL VS SQL](read%208.pnj.png)
 
 1. SQL databases are good fit for the complex query intensive environment.
 2. A real world example is MySql, Oracle, Sqlite, Postgres and MS-SQL.
